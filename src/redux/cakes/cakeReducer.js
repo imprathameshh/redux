@@ -1,6 +1,6 @@
 // THIS IS SECOND STEP OF CREATE A REDUCER
 
-import { ADD_CAKE, BUY_CAKE } from "./cakeConstant";
+import { BUY_CAKE } from "./cakeConstant";
 
 // FIRST STEP OF REDUCER
 const initialState = {
